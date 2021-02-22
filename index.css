@@ -1,0 +1,23 @@
+.mytext{
+    color:red;
+    font-family: 'Lobster', cursive;
+    font-size:40px;
+}
+.mycontent{
+    
+    
+    background-color:gray;
+    border:2px solid orange;
+    
+}
+.myheader1{
+    font-family: 'Lobster', cursive;
+}
+#content1{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+}
+.myheaderti{
+    font-family: 'Lobster', cursive;
+    font-size:25px;
+}
